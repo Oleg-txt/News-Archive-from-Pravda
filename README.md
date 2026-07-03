@@ -1,2 +1,2 @@
 # News-Archive-from-Pravda
-News Archive
+Comment block with inserting data into db after use.
